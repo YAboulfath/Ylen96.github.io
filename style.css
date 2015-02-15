@@ -1,0 +1,7 @@
+body{background-color:rgb(140,60,250)}
+footer {border-top: solid thin black;
+      font-size: smaller;
+	 }
+
+section{border:3px solid #000; border-radius:1em; margin: 5%}
+img{float:right; width:3,5cm ;height: 4cm;}
