@@ -1,5 +1,7 @@
 body{background-color:rgb(140,60,250)}
-section{border:3px solid #000; border-radius:1em; margin: 5%}
+section{border:3px solid #000; border-radius:1em; margin: 5% ;
+      background : -webkit -gradient (radical, center center, 0, center center, 150, from (white), to (rgb (140, 60, 250));)
+	  }
 img{float:right; width:4cm ;height: 4,5cm;}
 @media (min-width: 600px){ nav {background-color: pink;}}
 
@@ -8,7 +10,7 @@ footer {border-top: solid thin black;
       font-size: smaller;
 	 }
 
-@media (max-width: 600px){
+@media (max-width: 800px){
 nav {background-color: red;}
 body{background-color: pink}
 img{float:right; width:3cm ;height: 3,5cm;}
