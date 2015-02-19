@@ -14,4 +14,7 @@ footer {border-top: solid thin black;
 nav {background-color: red;}
 body{background-color: pink}
 img{float:right; width:3cm ;height: 3,5cm;}
+section{border:2px solid #000; border-radius:1em; margin: 2% ;
+      background-image:radial-gradient(white, pink);
+	  }
                          }
