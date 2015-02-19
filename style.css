@@ -4,6 +4,7 @@ img{float:right; width:4cm ;height: 4,5cm;}
 @media (min-width: 600px){ nav {background-color: pink;}}
 
 footer {border-top: solid thin black;
+      background-color:rgb(176,80,256);
       font-size: smaller;
 	 }
 
